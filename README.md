@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hey there 👋
 
-<!--
-**TangoAsync/TangoAsync** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Tango, a software engineer based in Brazil.
 
-Here are some ideas to get you started:
+I mostly work on back-end and systems architecture - Luau, Lua, and Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This is a profile where I'll be uploading some smaller projects, experiments, and things I'm currently working on. Everything here is built from scratch, no copy/paste templates.
+
+---
+
+### Tools & Tech
+
+* **Languages:** Luau, Lua, Python
+* **Roblox Dev:** OOP, ECS (Planck), Knit, Rodux
+* **Frameworks:** Fusion, Roact, Wally
+
+---
+
+### A Bit About Me
+
+* 🛠️ Focused on competitive systems and physics-based mechanics.
+* 🍎 Passionate about clean code, strict typing, and modular architecture.
+
+---
