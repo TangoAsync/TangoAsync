@@ -2,9 +2,8 @@
 
 I'm Tango, a software engineer based in Brazil.
 
-I mostly work on back-end and systems architecture - Luau, Lua, and Python.
-
-This is a profile where I'll be uploading some smaller projects, experiments, and things I'm currently working on. Everything here is built from scratch, no copy/paste templates.
+A Software Engineer from Brazil specializing in Technical Roblox Development. My focus is on creating high-performance Front-End architectures that don't just look only good, but are built on scalable and clean architecture
+I also am highly realiable, in most cases won't take me 10 minutes to answer you.
 
 ---
 
